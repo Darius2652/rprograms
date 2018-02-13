@@ -22,6 +22,9 @@ while (KingsFound < 4 && length(Shuffled) > 0) {
 	if (Picked == "K") {
 		KingsFound <- KingsFound + 1;
 	}
+	print("");
+	print("---");
+	print("");
 }
 
 print("GAME OVER! Start drinking...")
