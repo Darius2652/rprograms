@@ -2,5 +2,6 @@
 
 Programs made with 2018 BI students at CTU
 
-## Example Program 1
-Kings Drinking Game - Made in R
+## Program List
+Kings Drinking Game - Dian Jonker
+BlackJack - Llewellyn Anthony
